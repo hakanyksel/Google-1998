@@ -1,0 +1,97 @@
+/***** Body *****/
+body {
+    font-style: normal;
+}
+
+/***** Google - Search - Border *****/
+div.search-border {
+    background-color: #EFEFEF;
+    border: none;
+    box-sizing: border-box;
+    width: 1420px;
+    height: 60px;
+    text-align: center;
+    margin-left: 3px;
+}
+
+/***** Google Search *****/
+.search {
+    border: 1px solid gray;
+    width: 300px;
+    height: 20px;
+    box-sizing: border-box;
+    margin: auto;
+    border-radius: 2px;
+    background-color: white;
+} 
+
+/***** Button - Float *****/
+button.btn {
+    float: right;
+}
+
+/***** First - Border *****/
+div.first-border {
+    background-color: rgb(126, 229, 218);
+    border: none;
+    width: 535px;
+    height: 75px;
+    box-sizing: border-box;
+    text-align: center;
+    margin-left: 245px;
+    font-size: 15px; 
+}
+
+/***** First - Border - <a> *****/
+a.first {
+    margin-top: 13px; 
+    text-decoration: none;
+    color: black;
+}
+
+/***** Second - Border *****/
+div.second-border {
+    background-color: rgb(112, 204, 194);
+    border: none;
+    box-sizing: border-box;
+    width: 280px;
+    height: 75px;
+    text-align: center;
+    margin-left: 2px;
+    font-size: 13px;
+    
+}
+
+/***** Div > <a> *****/
+div > a {
+    color: blue;
+}
+/***** Third - Border *****/
+div.third-border {
+    background-color: rgb(98, 179, 170);
+    border: none;
+    box-sizing: border-box;
+    width: 600px;
+    height: 75px;
+    font-size: 13px;
+    margin-left: 2px;
+}
+.third-search {
+    border: 1px solid gray;
+    box-sizing: border-box;
+    width: 200px;
+    height: 20px;
+    border-radius: 2px;
+    background-color: white;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.third-search-btn {
+    margin-left: 25px;
+    margin-top: 3.1px;
+}
+/***** Only P *****/
+p {
+    margin: 0 0 0 0;
+    text-align: center;
+}
